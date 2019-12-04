@@ -8,6 +8,7 @@ nav {
 }
 nav p {
   font-size: 24px;
+  color: #d6d6d6;
   line-height: 69px;
   padding: 0 40px 0 20px;
   float:left;
@@ -38,9 +39,10 @@ nav a {
   line-height: 69px;
 }
 
-nav a:hover {
-  background-color: #484747;
-}
+
+
+
+
 
 nav ul li ul {
   position:absolute;
