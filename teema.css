@@ -58,7 +58,7 @@ nav ul li:hover ul {
 }
 
 h1 {
-	font-size: 50px;
+	font-size: 40px;
 	font-family: "Arial"
 }
 b1 {
@@ -83,5 +83,5 @@ b {
 }
 p {
 	color: pink;
-	font-size: 15px;
+	font-size: 25px;
 }
