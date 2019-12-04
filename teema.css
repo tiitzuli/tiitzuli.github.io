@@ -57,6 +57,10 @@ nav ul li:hover ul {
   display:block;
 }
 
+p1 {
+	font-size: 30px;
+}
+
 p {
 	color: pink;
 	font-size: 18px;
