@@ -32,11 +32,11 @@ nav ul li {
 }
 nav a {
   display:block;
-  padding: 0 15px 0 15px;
+  padding: 10px 15px 10px 15px;
   text-decoration: none;
   font-size: 16px;
   color: #d6d6d6;
-  line-height: 69px;
+  line-height: 65px;
 }
 
 nav ul li ul {
@@ -60,7 +60,6 @@ nav ul li:hover ul {
 h1 {
 	font-size: 50px;
 	font-family: "Arial"
-		float:left;
 }
 b1 {
 	color: red;
