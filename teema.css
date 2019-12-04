@@ -57,6 +57,11 @@ nav ul li:hover ul {
   display:block;
 }
 
+p {
+	color: pink;
+	font-size: 25px;
+}
+
 h1 {
 	font-size: 40px;
 	font-family: "Arial"
@@ -80,8 +85,4 @@ b4 {
 b {
 	color: purple;
 	font-size: 60px;
-}
-p {
-	color: pink;
-	font-size: 25px;
 }
