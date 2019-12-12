@@ -35,7 +35,7 @@ nav a {
   display:block;
   padding: 10px 15px 10px 15px;
   text-decoration: none;
-  font-size: 16px;
+  font-size: 20px;
   color: #d6d6d6;
   line-height: 65px;
 }
@@ -80,12 +80,10 @@ b1 {
 b2 {
 	color: yellow;
 	font-size: 30px;
-	fload: left;
 }
 b3 {
 	color: green;
 	font-size: 40px;
-	fload: left;
 }
 b4 {
 	color: blue;
