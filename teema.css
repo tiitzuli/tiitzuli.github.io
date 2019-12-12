@@ -69,13 +69,13 @@ p {
 
 h1 {
 	font-size: 40px;
-	fload: middle;
+	float: middle;
 	font-family: "Arial"
 }
 b1 {
 	color: red;
 	font-size: 10px;
-	fload: left;
+	float: left;
 }
 b2 {
 	color: yellow;
