@@ -69,8 +69,8 @@ p {
 
 h1 {
 	font-size: 40px;
-	float: middle;
 	font-family: "Arial"
+	text-align: center;
 }
 b1 {
 	color: red;
